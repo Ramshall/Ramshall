@@ -10,7 +10,7 @@ About me
 -----
 - 🔎 Notable projects during my time learning in data science <a href="https://github.com/Ramshall/mlprocess_diabetes" target="blank">Project-Certificate-ML-Process</a>
 - 📢 I really enjoyed doing the data visualization. Check out some of my work <a href="https://public.tableau.com/app/profile/muhammad.ramadhani2360" target="blank">Visualization in Tableau<a>
-- 🧑‍🎓 I am currently studying at the University of Indonesia, Islamic Economics
+- 🧑‍🎓 I am currently studying Islamic Economics at University of Indonesia
 
 
 
@@ -26,7 +26,7 @@ About me
 <br>
 
 
-## Contact me
+## 📫Contact me
 <br>
 <p align="Center>
 <a href="mailto:ramshall13@gmail" target="_blank">
