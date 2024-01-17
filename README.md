@@ -2,9 +2,6 @@
 <!--  -->
 <h3 align="center">If there's nothing special here, maybe my persistence and curiosity can be taken into the light. See my experience: <a href="https://drive.google.com/file/d/1Pj-s8Hh90GtGmHSiaUhcQgPiXWrVm0Es/view?usp=sharing" target="blank">Resume</a></h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ6b2hrZGt2dWxqaTJzNDJrMHRyMm5nYnUzbnFoZDl6cnd4ZXExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JskwGYW7t7znylmsaQ/giphy.gif">
-</a>
 
 About me
 -----
